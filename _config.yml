@@ -23,7 +23,7 @@ email: christian.pevere@pm.me
 description: >- # this means to ignore newlines until "baseurl:"
   Assistenza e riparazione computer fisso e portatile (pc e mac) / rimozione virus e malware / recupero dati / installazione e consulenze sull uso di Linux e altri sistemi Open source / consulenze su privacy informatica.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://christianpevere.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: christianpevere
 
 
